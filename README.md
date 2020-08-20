@@ -12,7 +12,7 @@
 - 📸 Fun fact: I love to take photos and videos 🎥 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bryan spotify playing" width="350" />](https://open.spotify.com/user/bryantobing0)
+[<img src="https://novatorem.bryantobing12.vercel.app/api/spotify-playing" alt="bryan spotify playing" width="350" />](https://open.spotify.com/user/bryantobing0)
 
 ### Connect with me:
 
