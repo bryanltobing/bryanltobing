@@ -6,10 +6,10 @@
 ## I'm a Website Developer, can work with both backend and frontend - aka [Superhero] Lol
 
 - 🔭 I’m currently working on a [Freelance Project][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to take photos and videos
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -96,12 +96,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/bryantobing12
+[website]: https://bryantobing12.github.io/
+[youtube]: https://www.youtube.com/channel/UC_DIpegrExwnDk6qAKsHygg?view_as=subscriber
+[instagram]: https://www.instagram.com/bryanltobing/
+[linkedin]: https://www.linkedin.com/in/bryanlumbantobing/
