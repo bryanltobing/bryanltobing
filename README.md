@@ -5,11 +5,11 @@
 
 ## I'm a Website Developer, can work with both backend and frontend - aka [Superhero] Lol
 
-- 🔭 I’m currently working on a [Freelance Project][website]!
+- 🔭 I’m currently working on a [Freelance Project][ptmajukitabersama]!
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to take photos and videos
+- 🥅 2020 Goals: Contribute more to Open Source projects and make more apps that used by other people
+- 📸 Fun fact: I love to take photos and videos 🎥 
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bryan spotify playing" width="350" />](https://open.spotify.com/user/bryantobing0)
@@ -101,6 +101,7 @@
 [youtube]: https://www.youtube.com/channel/UC_DIpegrExwnDk6qAKsHygg?view_as=subscriber
 [instagram]: https://www.instagram.com/bryanltobing/
 [linkedin]: https://www.linkedin.com/in/bryanlumbantobing/
+[ptmajukitabersama]: https://ceretindah.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
