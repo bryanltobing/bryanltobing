@@ -80,6 +80,9 @@
 </details>
 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bryantobing12.bryantobing12)
+
+
 [twitter]: https://twitter.com/bryantobing12
 [website]: https://bryantobing12.github.io/
 [youtube]: https://www.youtube.com/channel/UC_DIpegrExwnDk6qAKsHygg?view_as=subscriber
