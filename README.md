@@ -6,7 +6,7 @@
 ## I'm a Website Developer, can work with both backend and frontend - aka [Superhero] Lol
 
 - 🔭 I’m currently working on a [Freelance Project][ptmajukitabersama]!
-- 🌱 I’m currently learning ReactJS and ReactNative
+- 🌱 I’m currently learning ReactJS, ReactNative, Google Cloud Platform
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute more to Open Source projects and make more apps that used by other people
 - 📸 Fun fact: I love to take photos and videos 🎥 
