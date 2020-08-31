@@ -1,6 +1,6 @@
 ### Hi there, I'm Bryan Lumbantobing - aka [Bryan][website] 👋
 
-[![Website](https://img.shields.io/website?label=bryanlumbantoing&style=for-the-badge&url=https://bryantobing12.github.io)](https://bryantobing12.github.io/)
+[![Website](https://img.shields.io/website?label=bryanlumbantobing&style=for-the-badge&url=https://bryantobing12.github.io)](https://bryantobing12.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bryantobing12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryantobing12&screen_name=bryantobing12)
 
 ## I'm a Website Developer, can work with both backend and frontend - aka [Superhero] Lol
