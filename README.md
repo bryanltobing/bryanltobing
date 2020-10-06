@@ -63,11 +63,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/williamtobing/umkm-taput/pull/4) in [williamtobing/umkm-taput](https://github.com/williamtobing/umkm-taput)
-2. 💪 Opened PR [#4](https://github.com/williamtobing/umkm-taput/pull/4) in [williamtobing/umkm-taput](https://github.com/williamtobing/umkm-taput)
-3. 🗣 Commented on [#36](https://github.com/jessepollak/payment/issues/36) in [jessepollak/payment](https://github.com/jessepollak/payment)
-4. 🗣 Commented on [#24](https://github.com/jaredhanson/passport-remember-me/issues/24) in [jaredhanson/passport-remember-me](https://github.com/jaredhanson/passport-remember-me)
-5. 🗣 Commented on [#24](https://github.com/jaredhanson/passport-remember-me/issues/24) in [jaredhanson/passport-remember-me](https://github.com/jaredhanson/passport-remember-me)
+1. 🎉 Merged PR [#2](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/2) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+2. 💪 Opened PR [#2](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/2) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+3. 🎉 Merged PR [#1](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/1) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+4. 💪 Opened PR [#1](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/1) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+5. 🎉 Merged PR [#4](https://github.com/williamtobing/umkm-taput/pull/4) in [williamtobing/umkm-taput](https://github.com/williamtobing/umkm-taput)
 <!--END_SECTION:activity-->
 
 </details>
