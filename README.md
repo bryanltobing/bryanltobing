@@ -63,11 +63,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/3) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
-2. 💪 Opened PR [#3](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/3) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
-3. 🎉 Merged PR [#2](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/2) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
-4. 💪 Opened PR [#2](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/2) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
-5. 🎉 Merged PR [#1](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/1) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+1. 🎉 Merged PR [#4](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/4) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+2. 💪 Opened PR [#4](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/4) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+3. 🎉 Merged PR [#3](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/3) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+4. 💪 Opened PR [#3](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/3) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
+5. 🎉 Merged PR [#2](https://github.com/bryantobing12/indonesian-covid19hospital-api/pull/2) in [bryantobing12/indonesian-covid19hospital-api](https://github.com/bryantobing12/indonesian-covid19hospital-api)
 <!--END_SECTION:activity-->
 
 </details>
