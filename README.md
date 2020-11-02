@@ -3,13 +3,7 @@
 [![Website](https://img.shields.io/website?label=bryanlumbantobing&style=for-the-badge&url=https://bryantobing12.github.io)](https://bryantobing12.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bryantobing12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryantobing12&screen_name=bryantobing12)
 
-## I'm a Website Developer, can work with both backend and frontend - aka [Superhero] Lol
-
-- 🔭 I’m currently working on a [Freelance Project][ptmajukitabersama]!
-- 🌱 I’m currently learning ReactJS, ReactNative, Google Cloud Platform
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects and make more apps that used by other people
-- 📸 Fun fact: I love to take photos and videos 🎥 
+## I'm a Website Developer, can work with both backend and frontend
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.bryantobing12.vercel.app/api/spotify-playing" alt="bryan spotify playing" width="350" />](https://open.spotify.com/user/bryantobing0)
