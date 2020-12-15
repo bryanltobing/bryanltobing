@@ -5,8 +5,6 @@
 
 ## I'm a Website Developer, can work with both backend and frontend
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.bryantobing12.vercel.app/api/spotify-playing" alt="bryan spotify playing" width="350" />](https://open.spotify.com/user/bryantobing0)
 
 ### Connect with me:
 
