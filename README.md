@@ -56,10 +56,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#591](https://github.com/chakra-ui/chakra-ui/issues/591) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-2. 🗣 Commented on [#6](https://github.com/femioladeji/react-slideshow/issues/6) in [femioladeji/react-slideshow](https://github.com/femioladeji/react-slideshow)
-3. 🗣 Commented on [#4373](https://github.com/redux-form/redux-form/issues/4373) in [redux-form/redux-form](https://github.com/redux-form/redux-form)
-4. 💪 Opened PR [#2](https://github.com/SleepingNext/homepage/pull/2) in [SleepingNext/homepage](https://github.com/SleepingNext/homepage)
+1. ❗️ Opened issue [#220](https://github.com/lovasoa/react-contenteditable/issues/220) in [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable)
+2. 🗣 Commented on [#591](https://github.com/chakra-ui/chakra-ui/issues/591) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+3. 🗣 Commented on [#6](https://github.com/femioladeji/react-slideshow/issues/6) in [femioladeji/react-slideshow](https://github.com/femioladeji/react-slideshow)
+4. 🗣 Commented on [#4373](https://github.com/redux-form/redux-form/issues/4373) in [redux-form/redux-form](https://github.com/redux-form/redux-form)
 5. 💪 Opened PR [#1](https://github.com/SleepingNext/homepage/pull/1) in [SleepingNext/homepage](https://github.com/SleepingNext/homepage)
 <!--END_SECTION:activity-->
 
