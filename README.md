@@ -42,6 +42,7 @@
 ### 📺 Latest Project (Freelance, College, and Side Project)
 
 <!-- PROJECT:START -->
+- [Wedocation] (https://wedocation.com/)
 - [PT Maju Kita Bersama](https://ceretindah.com/)
 - [Online Library System Del](https://olisdel.herokuapp.com/)
 - [Umkm Taput](https://umkmtaput.herokuapp.com/)
