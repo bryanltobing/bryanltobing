@@ -42,7 +42,7 @@
 ### 📺 Latest Project (Freelance, College, and Side Project)
 
 <!-- PROJECT:START -->
-- [Wedocation] (https://wedocation.com/)
+- [Wedocation](https://wedocation.com/)
 - [PT Maju Kita Bersama](https://ceretindah.com/)
 - [Online Library System Del](https://olisdel.herokuapp.com/)
 - [Umkm Taput](https://umkmtaput.herokuapp.com/)
@@ -85,6 +85,7 @@
 [instagram]: https://www.instagram.com/bryanltobing/
 [linkedin]: https://www.linkedin.com/in/bryanlumbantobing/
 [ptmajukitabersama]: https://ceretindah.com/
+[wedocation]: https://wedocation.com/
 [vscode]: https://code.visualstudio.com/
 [html]: https://id.wikipedia.org/wiki/HTML/
 [css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets/
