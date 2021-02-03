@@ -6,7 +6,7 @@
 ## I'm a Website Developer, can work with both backend and frontend
 
 
-### Connect with me:
+### Connect with me here:
 
 [<img align="left" alt="bryanltobing | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bryanltobing | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
