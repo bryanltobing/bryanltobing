@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#646](https://github.com/Kong/insomnia/issues/646) in [Kong/insomnia](https://github.com/Kong/insomnia)
-2. 🗣 Commented on [#196](https://github.com/Atyantik/react-pwa/issues/196) in [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa)
-3. ❗️ Opened issue [#6](https://github.com/adrianhajdin/project_weather_pwa/issues/6) in [adrianhajdin/project_weather_pwa](https://github.com/adrianhajdin/project_weather_pwa)
-4. 🗣 Commented on [#200](https://github.com/chakra-ui/chakra-ui/issues/200) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-5. 🎉 Merged PR [#1](https://github.com/bryantobing12/ga-ci-cd-nodejs/pull/1) in [bryantobing12/ga-ci-cd-nodejs](https://github.com/bryantobing12/ga-ci-cd-nodejs)
+1. 🗣 Commented on [#374](https://github.com/fkhadra/react-toastify/issues/374) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+2. 🗣 Commented on [#646](https://github.com/Kong/insomnia/issues/646) in [Kong/insomnia](https://github.com/Kong/insomnia)
+3. 🗣 Commented on [#196](https://github.com/Atyantik/react-pwa/issues/196) in [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa)
+4. ❗️ Opened issue [#6](https://github.com/adrianhajdin/project_weather_pwa/issues/6) in [adrianhajdin/project_weather_pwa](https://github.com/adrianhajdin/project_weather_pwa)
+5. 🗣 Commented on [#200](https://github.com/chakra-ui/chakra-ui/issues/200) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 <!--END_SECTION:activity-->
 
 </details>
