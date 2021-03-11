@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
-2. 💪 Opened PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
-3. 🎉 Merged PR [#4](https://github.com/goagara/simple-express/pull/4) in [goagara/simple-express](https://github.com/goagara/simple-express)
-4. 💪 Opened PR [#4](https://github.com/goagara/simple-express/pull/4) in [goagara/simple-express](https://github.com/goagara/simple-express)
-5. 🎉 Merged PR [#3](https://github.com/goagara/simple-express/pull/3) in [goagara/simple-express](https://github.com/goagara/simple-express)
+1. ❗️ Opened issue [#309](https://github.com/Hipo/university-domains-list/issues/309) in [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list)
+2. 🎉 Merged PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
+3. 💪 Opened PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
+4. 🎉 Merged PR [#4](https://github.com/goagara/simple-express/pull/4) in [goagara/simple-express](https://github.com/goagara/simple-express)
+5. 💪 Opened PR [#4](https://github.com/goagara/simple-express/pull/4) in [goagara/simple-express](https://github.com/goagara/simple-express)
 <!--END_SECTION:activity-->
 
 </details>
