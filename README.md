@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/adityadhapola/Facial-Recognition/issues/1) in [adityadhapola/Facial-Recognition](https://github.com/adityadhapola/Facial-Recognition)
-2. ❗️ Opened issue [#309](https://github.com/Hipo/university-domains-list/issues/309) in [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list)
-3. 🎉 Merged PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
-4. 💪 Opened PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
-5. 🎉 Merged PR [#4](https://github.com/goagara/simple-express/pull/4) in [goagara/simple-express](https://github.com/goagara/simple-express)
+1. ❗️ Opened issue [#12](https://github.com/jasmcaus/opencv-course/issues/12) in [jasmcaus/opencv-course](https://github.com/jasmcaus/opencv-course)
+2. ❗️ Opened issue [#1](https://github.com/adityadhapola/Facial-Recognition/issues/1) in [adityadhapola/Facial-Recognition](https://github.com/adityadhapola/Facial-Recognition)
+3. ❗️ Opened issue [#309](https://github.com/Hipo/university-domains-list/issues/309) in [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list)
+4. 🎉 Merged PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
+5. 💪 Opened PR [#5](https://github.com/goagara/simple-express/pull/5) in [goagara/simple-express](https://github.com/goagara/simple-express)
 <!--END_SECTION:activity-->
 
 </details>
