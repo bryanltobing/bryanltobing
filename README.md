@@ -57,9 +57,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#280](https://github.com/reactivestack/cookies/issues/280) in [reactivestack/cookies](https://github.com/reactivestack/cookies)
-2. ❗️ Opened issue [#5147](https://github.com/prisma/prisma1/issues/5147) in [prisma/prisma1](https://github.com/prisma/prisma1)
-3. ❗️ Opened issue [#12](https://github.com/jasmcaus/opencv-course/issues/12) in [jasmcaus/opencv-course](https://github.com/jasmcaus/opencv-course)
+1. 🗣 Commented on [#387](https://github.com/video-react/video-react/issues/387) in [video-react/video-react](https://github.com/video-react/video-react)
+2. 🗣 Commented on [#280](https://github.com/reactivestack/cookies/issues/280) in [reactivestack/cookies](https://github.com/reactivestack/cookies)
+3. ❗️ Opened issue [#5147](https://github.com/prisma/prisma1/issues/5147) in [prisma/prisma1](https://github.com/prisma/prisma1)
 4. ❗️ Opened issue [#1](https://github.com/adityadhapola/Facial-Recognition/issues/1) in [adityadhapola/Facial-Recognition](https://github.com/adityadhapola/Facial-Recognition)
 5. ❗️ Opened issue [#309](https://github.com/Hipo/university-domains-list/issues/309) in [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list)
 <!--END_SECTION:activity-->
