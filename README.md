@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
-2. ❗️ Opened issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
-3. 🗣 Commented on [#387](https://github.com/video-react/video-react/issues/387) in [video-react/video-react](https://github.com/video-react/video-react)
-4. 🗣 Commented on [#280](https://github.com/reactivestack/cookies/issues/280) in [reactivestack/cookies](https://github.com/reactivestack/cookies)
-5. ❗️ Opened issue [#309](https://github.com/Hipo/university-domains-list/issues/309) in [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list)
+1. 🗣 Commented on [#25](https://github.com/sstur/draft-js-utils/issues/25) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+2. 🗣 Commented on [#65](https://github.com/sstur/draft-js-utils/issues/65) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+3. 🗣 Commented on [#84](https://github.com/sstur/draft-js-utils/issues/84) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+4. ❗️ Closed issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
+5. ❗️ Opened issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
 <!--END_SECTION:activity-->
 
 </details>
