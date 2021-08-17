@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/sstur/draft-js-utils/issues/25) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
-2. 🗣 Commented on [#65](https://github.com/sstur/draft-js-utils/issues/65) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
-3. 🗣 Commented on [#84](https://github.com/sstur/draft-js-utils/issues/84) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
-4. ❗️ Closed issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
-5. ❗️ Opened issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
+1. 🗣 Commented on [#15](https://github.com/letranloc/draft-js-katex-plugin/issues/15) in [letranloc/draft-js-katex-plugin](https://github.com/letranloc/draft-js-katex-plugin)
+2. 🗣 Commented on [#25](https://github.com/sstur/draft-js-utils/issues/25) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+3. 🗣 Commented on [#65](https://github.com/sstur/draft-js-utils/issues/65) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+4. 🗣 Commented on [#84](https://github.com/sstur/draft-js-utils/issues/84) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+5. ❗️ Closed issue [#21](https://github.com/fpellicero/react-bottom-drawer/issues/21) in [fpellicero/react-bottom-drawer](https://github.com/fpellicero/react-bottom-drawer)
 <!--END_SECTION:activity-->
 
 </details>
