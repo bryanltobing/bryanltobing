@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/ankeetmaini/react-infinite-scroll-component/issues/286) in [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
-2. 🗣 Commented on [#15](https://github.com/letranloc/draft-js-katex-plugin/issues/15) in [letranloc/draft-js-katex-plugin](https://github.com/letranloc/draft-js-katex-plugin)
-3. 🗣 Commented on [#25](https://github.com/sstur/draft-js-utils/issues/25) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
-4. 🗣 Commented on [#65](https://github.com/sstur/draft-js-utils/issues/65) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
-5. 🗣 Commented on [#84](https://github.com/sstur/draft-js-utils/issues/84) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+1. 🗣 Commented on [#908](https://github.com/vercel/swr/issues/908) in [vercel/swr](https://github.com/vercel/swr)
+2. 🗣 Commented on [#286](https://github.com/ankeetmaini/react-infinite-scroll-component/issues/286) in [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component)
+3. 🗣 Commented on [#15](https://github.com/letranloc/draft-js-katex-plugin/issues/15) in [letranloc/draft-js-katex-plugin](https://github.com/letranloc/draft-js-katex-plugin)
+4. 🗣 Commented on [#25](https://github.com/sstur/draft-js-utils/issues/25) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
+5. 🗣 Commented on [#65](https://github.com/sstur/draft-js-utils/issues/65) in [sstur/draft-js-utils](https://github.com/sstur/draft-js-utils)
 <!--END_SECTION:activity-->
 
 </details>
