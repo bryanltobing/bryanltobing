@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/toomuchdesign/react-minimal-pie-chart/issues/230) in [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart)
-2. 🗣 Commented on [#1802](https://github.com/chakra-ui/chakra-ui/issues/1802) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. 🗣 Commented on [#1077](https://github.com/facebook/draft-js/issues/1077) in [facebook/draft-js](https://github.com/facebook/draft-js)
-4. 🗣 Commented on [#1986](https://github.com/chakra-ui/chakra-ui/issues/1986) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-5. 🗣 Commented on [#524](https://github.com/mholt/PapaParse/issues/524) in [mholt/PapaParse](https://github.com/mholt/PapaParse)
+1. 🗣 Commented on [#231](https://github.com/toomuchdesign/react-minimal-pie-chart/issues/231) in [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart)
+2. 🗣 Commented on [#230](https://github.com/toomuchdesign/react-minimal-pie-chart/issues/230) in [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart)
+3. 🗣 Commented on [#1802](https://github.com/chakra-ui/chakra-ui/issues/1802) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+4. 🗣 Commented on [#1077](https://github.com/facebook/draft-js/issues/1077) in [facebook/draft-js](https://github.com/facebook/draft-js)
+5. 🗣 Commented on [#1986](https://github.com/chakra-ui/chakra-ui/issues/1986) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 <!--END_SECTION:activity-->
 
 </details>
