@@ -1,7 +1,30 @@
-### Hi I'm Bryan 👋 _
+# Hi there 👋
 
 [![Website](https://img.shields.io/website?label=bryanlumbantobing&style=for-the-badge&url=https://bryantobing12.github.io)](https://bryantobing12.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bryantobing12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryantobing12&screen_name=bryantobing12)
+<div 
+     ="left">
+  <a href="https://twitter.com/bryantobing12">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://github.com/bryantobing12">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bryantobing12/bryantobing12/blob/master/devcard.svg" width="256" align="right" alt="Bryan Lumbantobing Dev Card"/></a>
+
+</div>
+
+<br />
+
+## I am Bryan Lumbantobing
+
+
 
 ## I enjoy building apps
 
@@ -31,9 +54,6 @@
 
 </details>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bryantobing12/bryantobing12/blob/master/devcard.svg" width="400" alt="Bryan Lumbantobing Dev Card"/></a>
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantobing12&hide=TeX&layout=compact&theme=light)
 
@@ -46,4 +66,5 @@
 [youtube]: https://www.youtube.com/channel/UC_DIpegrExwnDk6qAKsHygg?view_as=subscriber
 [instagram]: https://www.instagram.com/bryanltobing/
 [linkedin]: https://www.linkedin.com/in/bryanlumbantobing/
+
 
