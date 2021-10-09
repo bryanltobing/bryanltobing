@@ -31,6 +31,9 @@
 
 </details>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bryantobing12/bryantobing12/blob/master/devcard.svg" width="400" alt="Bryan Lumbantobing Dev Card"/></a>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantobing12&hide=TeX&layout=compact&theme=light)
 
